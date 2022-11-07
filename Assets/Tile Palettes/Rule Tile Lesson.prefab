@@ -207,7 +207,7 @@ GameObject:
   - component: {fileID: 834428470045409455}
   - component: {fileID: 2631904253516975876}
   m_Layer: 0
-  m_Name: Rule Tile
+  m_Name: Rule Tile Lesson
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
