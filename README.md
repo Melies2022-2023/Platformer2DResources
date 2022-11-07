@@ -2,7 +2,7 @@
 
 Vous trouverez ci après des liens ainsi qu’un projet réalisé par mes soins afin de vous montrer certains aspects du moteur. Vous avez 3 scènes d’exemple dans le dossier Scenes du projet. Vous pouvez m’envoyer des questions sur ce projet si vous voulez mieux comprendre.
 
-[Lien de téléchargement du projet](https://google.fr)
+[Lien de téléchargement du projet](https://github.com/Melies2022-2023/Platformer2DResources/archive/refs/heads/master.zip)
 
 [Assets graphiques utilisés](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360)
 
